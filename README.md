@@ -15,16 +15,16 @@ In this repositor, we implement our proposed VBGAN and VBGAN with Wasserstein me
 	- GPU: GeForce GTX 980
 
 ## Result of sampling
-| <img src="figures/VBGAN_sam.png" width="500"> |
+| <img src="figures/VBGAN_sam.png" width="400"> |
 | :------------------------------------------------: |
 | VBGAN                                   |
 
-| <img src="figures/VBGAN_wasserstein_sam.png" width="500/"> |
+| <img src="figures/VBGAN_wasserstein_sam.png" width="400/"> |
 | :--------------------------------------------------: |
 | VBGAN_w                                           |
 
 ## Test accuracy
-| <img src="figures/4000.png" width="250"> |
+| <img src="figures/4000.png" width="400"> |
 | :-----------------------------------------: |
 | Test accuracy of our proposed and Bayesian GAN  |
 
