@@ -1,8 +1,10 @@
 # Variational Bayesian GAN for MNIST Generation
 In this repositor, we implement our proposed VBGAN and VBGAN with Wasserstein metric based on auto-encoder based generator and train the model with adversarial learning. 
 
-
-
+<p align="center">
+  <img src="figures/Model_slide.PNG" width="450">
+  <img src="figures/Model_slide_w.PNG" width="450">
+</p>
 
 ## Setting
 - Framework:
