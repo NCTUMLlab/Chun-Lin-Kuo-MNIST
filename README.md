@@ -1,6 +1,10 @@
 # Variational Bayesian GAN for MNIST Generation
 In this repositor, we implement our proposed VBGAN and VBGAN with Wasserstein metric based on auto-encoder based generator and train the model with adversarial learning. Further, we extend the Jensen Shannon divergence between data distribution and generating distribution to geometric distance to make the model more robust and genearate better result. To quantify the result of our proposed, we also train our model with semi-supervised learning to show that our model did learning some information from training data.
 
+
+Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/master/ben_athiwaratkun/pytorch-bayesgan/Bayesian%20GAN%20in%20PyTorch.ipynb
+
+
 <p align="center">
   <img src="figures/Model_slide.PNG" width="450">
   <img src="figures/Model_slide_w.PNG" width="450">
