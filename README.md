@@ -6,6 +6,7 @@ Bayesian GAN credit to https://github.com/vasiloglou/mltrain-nips-2017/blob/mast
 
 Bayes by Backbrop credit to https://gist.github.com/vvanirudh/9e30b2f908e801da1bd789f4ce3e7aac
 
+* Our Model Architecture
 
 <p align="center">
   <img src="figures/Model_slide.PNG" width="450">
